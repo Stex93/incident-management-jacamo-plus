@@ -1,1 +1,1 @@
-# incident-management-jacamo-
+# Incident Management Process in JaCaMo+
